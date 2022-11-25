@@ -17,8 +17,11 @@
 }
 .my {
   margin-top: 120px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .star {
   color: orange;
+}
+.grid {
+  margin-bottom: 180px;
 }
